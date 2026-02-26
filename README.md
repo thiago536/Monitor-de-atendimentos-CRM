@@ -20,23 +20,21 @@
 
 O **Sitegen Tech Monitor** não é apenas uma ferramenta de log; é um motor de eficiência operacional de ponta a ponta.
 
-````carousel
 ### 📊 Dashboard em Tempo Real
 Visualização instantânea da saúde da operação.
-![Tela Inicial](/Logo%20e%20fotos/tela%20inicial%20diaria.png)
-<!-- slide -->
+![Tela Inicial](./Logo%20e%20fotos/tela%20inicial%20diaria.png)
+
 ### 🌍 Inteligência Geográfica
 Mapeamento de clientes e distribuição de demanda por região.
-![Mapa de Clientes](/Logo%20e%20fotos/Mapa%20de%20clientes.png)
-<!-- slide -->
+![Mapa de Clientes](./Logo%20e%20fotos/Mapa%20de%20clientes.png)
+
 ### 🤖 Predição com IA
 Algoritmos avançados para prever picos de demanda e gargalos.
-![IA Predict](/Logo%20e%20fotos/ia%20predict.png)
-<!-- slide -->
+![IA Predict](./Logo%20e%20fotos/ia%20predict.png)
+
 ### 🏆 Gamificação Profissional
 Engajamento da equipe através de rankings e métricas de performance.
-![Gamificação](/Logo%20e%20fotos/gameficação%20de%20atendentes.png)
-````
+![Gamificação](./Logo%20e%20fotos/gameficação%20de%20atendentes.png)
 
 ---
 
