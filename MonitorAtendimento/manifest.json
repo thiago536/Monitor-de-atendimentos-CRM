@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "CRM Atendimentos Monitor",
+  "version": "1.0.0",
+  "description": "Monitora novos atendimentos na lista lateral do CRM",
+  
+  "permissions": [
+    "activeTab"
+  ],
+  
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  
+  "action": {
+    "default_title": "CRM Monitor"
+  }
+}
